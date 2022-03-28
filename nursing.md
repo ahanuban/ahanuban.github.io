@@ -19,8 +19,8 @@ Ahanu is currently a student nurse at Emory University's [Nell Hodgson Woodruff 
 * Streamlining processes and administering vaccines at COVID-19 and flu vaccine clinics  
   * [DeKalb County Board of Health](https://www.dekalbhealth.net/): Volunteer Spanish interpreter and vaccine administrator
   * [Boat People SOS](https://www.bpsos.org): Vaccine preparation and administration
-* Administering COVID-19 (nasopharyngeal swab) tests
-  * Volunteer tester at Emory's Northlake Mall testing facility
+* Administering COVID-19 (nasopharyngeal/oropharyngeal swab) tests
+  * Volunteer clinical worker at Emory's Northlake Mall testing facility
 * Diabetes education and counseling
   * As a Type-1 Diabetic, Ahanu has counseled many diabetic patients regarding continuity-of-care and ways to improve treatment outcomes, both during student clinicals and in his free time.
 
