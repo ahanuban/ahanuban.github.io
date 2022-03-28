@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "About Ahanu"
+title: "About"
 ---
 
 ## About Ahanu
