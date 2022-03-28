@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Nursing"
+title: "Nursing Experience"
 permalink: /nursing/
 ---
 
-## Nursing 
+## Nursing Experience
 Ahanu is currently a student nurse at Emory University's [Nell Hodgson Woodruff School of Nursing](https://nursing.emory.edu). He expects to graduate in May, 2023. 
 
 ### Clinical Experience
