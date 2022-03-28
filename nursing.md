@@ -23,6 +23,3 @@ Ahanu is currently a student nurse at Emory University's [Nell Hodgson Woodruff 
 
 ### Languages
 Ahanu is highly proficient in Spanish.
-
-### Travel
-Ahanu is an avid international traveler, having visited over 26 countries.
