@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "About Ahanu"
-permalink: /about/
 ---
 
 ## About Ahanu
