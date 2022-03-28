@@ -17,5 +17,5 @@ Ahanu also has a keen interest in lutherie and has worked as an intern at [Atlan
 ### Entrepreneurship
 Ahanu owns [Edizioni Migliori](https://cellobooks.net), a sheet music publishing company that makes modern editions of sheet music for cello.  
 
-### Travel
+### Travel and Citizenship
 Ahanu is an avid international traveler, having visited over 26 countries. He holds dual citizenship with the United States and the United Kingdom, as well as [OCI (Overseas Citizenship of India)](https://en.wikipedia.org/wiki/Overseas_Citizenship_of_India) status.
