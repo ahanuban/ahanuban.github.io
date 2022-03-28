@@ -8,13 +8,13 @@ permalink: /nursing/
 Ahanu is currently a student nurse at Emory University's [Nell Hodgson Woodruff School of Nursing](https://nursing.emory.edu). He expects to graduate in May, 2023. 
 
 ### Clinical Experience
-* September to December, 2021:[ _Emory University Hospital_](https://www.emoryhealthcare.org/locations/hospitals/emory-university-hospital/index.html)
+* September to December, 2021: [Emory University Hospital](https://www.emoryhealthcare.org/locations/hospitals/emory-university-hospital/index.html)
   * 6T: Transplant unit  
-* January to March, 2022: [_Children's Egleston Hospital_](https://www.choa.org/locations/egleston-hospital)
+* January to March, 2022: [Children's Egleston Hospital](https://www.choa.org/locations/egleston-hospital)
   * 4E: Pediatric med-surg unit  
-* March to May, 2022:[ _Emory University Hospital_](https://www.emoryhealthcare.org/locations/hospitals/emory-university-hospital/index.html)
+* March to May, 2022: [Emory University Hospital](https://www.emoryhealthcare.org/locations/hospitals/emory-university-hospital/index.html)
   * 10E: Med-surg/infectious disease unit (hybrid COVID-19 unit)
-* March, 2022: _Camp Journey_ by [Spectrum](https://www.atl-spectrum.com/)
+* March, 2022: Camp Journey by [Spectrum](https://www.atl-spectrum.com/)
   * Worked with other students and faculty to administer medications to campers with autism
   * Collaborated on project to overhaul medication administration procedures and improve safety
 
