@@ -29,5 +29,5 @@ Ahanu is currently a student nurse at Emory University's [Nell Hodgson Woodruff 
   * As a Type-1 Diabetic, Ahanu has counseled many diabetic patients regarding continuity-of-care and ways to improve treatment outcomes, both during student clinicals and in his free time.
 
 ### Languages
-English: Fluent
-Spanish: Near fluent
+* English: Fluent  
+* Spanish: Near fluent
