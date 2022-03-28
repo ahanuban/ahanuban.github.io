@@ -12,7 +12,7 @@ Ahanu is pursuing a bachelor's degree of science in nursing (BSN) at Emory Unive
 ### Cello
 Prior to studying nursing, Ahanu studied cello performance under Anne-Martindale Williams at [Carnegie-Mellon University](https://music.cmu.edu), from 2015 to 2017. Prior to Carnegie-Mellon, he studied with Martha Gerschefski in Atlanta. Ahanu has performed solo and chamber works at numerous summer music festivals, including the Bowdoin International Music Festival and the Brevard Music Center. Ahanu has extensive orchestral experience, both as a section player in the Carnegie-Mellon Philharmonic, a section player in the Emory University Symphony Orchestra, and as former co-principal cellist of the Atlanta Symphony Youth Orchestra.
 
-Ahanu also has a keen interest in lutherie and has worked as an intern at [Atlanta Violins](www.atlantaviolins.com/) in Roswell, GA, where he learned basic instrument repair and set-up techniques.
+Ahanu also has a keen interest in lutherie and has worked as an intern at [Atlanta Violins](www.atlantaviolins.com/) in Roswell, GA, where he learned basic instrument repair and set-up skills.
 
 ### Entrepreneurship
 Ahanu owns [Edizioni Migliori](https://cellobooks.net), a sheet music publishing company that makes modern editions of sheet music for cello.  
