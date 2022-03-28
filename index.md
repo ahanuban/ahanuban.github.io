@@ -12,3 +12,6 @@ Prior to studying nursing, Ahanu studied cello performance under Anne-Martindale
 
 ### Entrepreneurship
 Ahanu owns [Edizioni Migliori](https://cellobooks.net), a sheet music publishing company that makes modern editions of sheet music for cello.  
+
+### Travel
+Ahanu is an avid international traveler, having visited over 26 countries.
