@@ -4,7 +4,7 @@ title: "About"
 ---
 
 ## About Ahanu
-Ahanu is a student nurse, cellist, and entrepreneur.
+Ahanu Banerjee is a student nurse, cellist, and entrepreneur.
 
 ### Education and Nursing
 Ahanu is pursuing a bachelor's degree of science in nursing (BSN) at Emory University's [Nell Hodgson Woodruff School of Nursing](https://nursing.emory.edu) and expects to graduate in May, 2023. He completed his nursing school prerequisites at [Georgia State University](https://gsu.edu), where he maintained a 4.0 GPA.
