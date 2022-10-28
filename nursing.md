@@ -18,7 +18,7 @@ Ahanu is currently a student nurse at Emory University's [Nell Hodgson Woodruff 
   * Worked with other students and faculty to administer medications to campers with autism
   * Collaborated on project to overhaul medication administration procedures and improve safety
 * September-October, 2022: [Peachford Hospital](https://peachford.com)
-  * Inpatient Mental Health (Pediatric, Adolescent, & Adult/Gero populations
+  * Inpatient Mental Health (Pediatric, Adolescent, & Adult/Gero populations)
 * October-November, 2022: [Emory Decatur Hospital](https://www.emoryhealthcare.org/locations/hospitals/emory-decatur-hospital/index.html)
   * Dr. Bobbie Bailey Tower: OB Care
   * L&D, Postpartum, NICU
