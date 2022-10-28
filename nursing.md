@@ -36,15 +36,12 @@ Ahanu is currently a student nurse at Emory University's [Nell Hodgson Woodruff 
 ### Continuing Education & Certifications
 * Harvard Medical School
   * Mechanical Ventilation for COVID-19
-
 * American Nurses Association
   * Redefining Nursing - Reaffirming Our Practice: Introducing the Nursing Scope and Standards of Practice, Fourth Edition
-
 * American Red Cross
   * Disaster Cycle Services Overview
   * Disaster Health Services Fundamentals 1 & 2
   * In-person orientation activity
-
 * Emory Nursing Professional Development Center
   * Motivational Interviewing
 
