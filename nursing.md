@@ -41,7 +41,7 @@ Ahanu is currently a student nurse at Emory University's [Nell Hodgson Woodruff 
 * American Red Cross
   * Disaster Cycle Services Overview
   * Disaster Health Services Fundamentals 1 & 2
-  * In-person orientation activity
+  * Disaster Preparedness Orientation
 * Emory Nursing Professional Development Center
   * Motivational Interviewing
 
