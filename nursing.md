@@ -17,6 +17,11 @@ Ahanu is currently a student nurse at Emory University's [Nell Hodgson Woodruff 
 * March, 2022: Camp Journey by [Spectrum](https://www.atl-spectrum.com/)
   * Worked with other students and faculty to administer medications to campers with autism
   * Collaborated on project to overhaul medication administration procedures and improve safety
+* September-October, 2022: [Peachford Hospital](https://peachford.com)
+  * Inpatient Mental Health (Pediatric, Adolescent, & Adult/Gero populations
+* October-November, 2022: [Emory Decatur Hospital](https://www.emoryhealthcare.org/locations/hospitals/emory-decatur-hospital/index.html)
+  * Dr. Bobbie Bailey Tower: OB Care
+  * L&D, Postpartum, NICU
 
 
 ### Additional Experience
@@ -27,6 +32,21 @@ Ahanu is currently a student nurse at Emory University's [Nell Hodgson Woodruff 
   * Volunteer clinical worker at Emory's Northlake Mall testing facility
 * Diabetes education and counseling
   * As a Type-1 Diabetic, Ahanu has counseled many diabetic patients regarding continuity-of-care and ways to improve treatment outcomes, both during student clinicals and in his free time.
+
+### Continuing Education & Certifications
+* Harvard Medical School
+  * Mechanical Ventilation for COVID-19
+
+* American Nurses Association
+  * Redefining Nursing - Reaffirming Our Practice: Introducing the Nursing Scope and Standards of Practice, Fourth Edition
+
+* American Red Cross
+  * Disaster Cycle Services Overview
+  * Disaster Health Services Fundamentals 1 & 2
+  * In-person orientation activity
+
+* Emory Nursing Professional Development Center
+  * Motivational Interviewing
 
 ### Languages
 * English: Fluent  
