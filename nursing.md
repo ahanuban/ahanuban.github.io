@@ -50,5 +50,6 @@ Ahanu is currently a student nurse at Emory University's [Nell Hodgson Woodruff 
 * Spanish: Near fluent
 
 ### Charting Software
-* PowerChart
 * Epic
+* PowerChart
+
