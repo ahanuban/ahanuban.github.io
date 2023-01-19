@@ -8,20 +8,25 @@ permalink: /nursing/
 Ahanu is currently a student nurse at Emory University's [Nell Hodgson Woodruff School of Nursing](https://nursing.emory.edu). He expects to graduate in May, 2023. 
 
 ### Clinical Experience
-* September–December, 2021: [Emory University Hospital](https://www.emoryhealthcare.org/locations/hospitals/emory-university-hospital/index.html)
-  * 6T: Transplant unit  
-* January–March, 2022: [Children's Egleston Hospital](https://www.choa.org/locations/egleston-hospital)
-  * 4E: Pediatric med-surg unit  
+* February-May, 2023 (Anticipated): [Emory Decatur Hospital](https://www.emoryhealthcare.org/locations/hospitals/emory-decatur-hospital/index.html)
+  * Senior Clinical Practicum (Role Transition): Emergency Department & Cardiac Telemetry — 150 patient-care hours  
+* January-February, 2023: [Emory Orthopaedics & Spine Center](https://www.emoryhealthcare.org/centers-programs/orthopedic-spine-center/index.html)
+  * Ambulatory Care (PACU, Physiatry, Pre-Op) — 30 patient-care hours  
+* October-November, 2022: [Emory Decatur Hospital](https://www.emoryhealthcare.org/locations/hospitals/emory-decatur-hospital/index.html)
+  * Dr. Bobbie Bailey Tower: OB Care (L&D, Postpartum, NICU) — 60 patient-care hours  
+* September-October, 2022: [Peachford Hospital](https://peachford.com)
+  * Inpatient Mental Health (Pediatric, Adolescent, & Adult/Gero populations) — 60 patient-care hours  
 * March–May, 2022: [Emory University Hospital](https://www.emoryhealthcare.org/locations/hospitals/emory-university-hospital/index.html)
-  * 10E: Med-surg/infectious disease unit (hybrid COVID-19 unit)
-* March, 2022: Camp Journey by [Spectrum](https://www.atl-spectrum.com/)
+  * 10E: Med-surg/infectious disease unit (hybrid COVID-19 unit) — 75 patient-care hours  
+* March, 2022: Camp Journey by [Spectrum](https://www.atl-spectrum.com/) — 30 patient-care hours
   * Worked with other students and faculty to administer medications to campers with autism
   * Collaborated on project to overhaul medication administration procedures and improve safety
-* September-October, 2022: [Peachford Hospital](https://peachford.com)
-  * Inpatient Mental Health (Pediatric, Adolescent, & Adult/Gero populations)
-* October-November, 2022: [Emory Decatur Hospital](https://www.emoryhealthcare.org/locations/hospitals/emory-decatur-hospital/index.html)
-  * Dr. Bobbie Bailey Tower: OB Care
-  * L&D, Postpartum, NICU
+* January–March, 2022: [Children's Egleston Hospital](https://www.choa.org/locations/egleston-hospital)
+  * 4E: Pediatric med-surg unit — 60 patient-care hours  
+* September–December, 2021: [Emory University Hospital](https://www.emoryhealthcare.org/locations/hospitals/emory-university-hospital/index.html)
+  * 6T: Transplant unit — 60 patient-care hours  
+
+
 
 
 ### Additional Experience
