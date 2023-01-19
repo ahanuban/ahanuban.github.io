@@ -8,23 +8,23 @@ permalink: /nursing/
 Ahanu is currently a student nurse at Emory University's [Nell Hodgson Woodruff School of Nursing](https://nursing.emory.edu). He expects to graduate in May, 2023. 
 
 ### Clinical Experience
-* February-May, 2023 (Anticipated): [Emory Decatur Hospital](https://www.emoryhealthcare.org/locations/hospitals/emory-decatur-hospital/index.html)
-  * Senior Clinical Practicum (Role Transition): Emergency Department & Cardiac Telemetry — 150 patient-care hours  
-* January-February, 2023: [Emory Orthopaedics & Spine Center](https://www.emoryhealthcare.org/centers-programs/orthopedic-spine-center/index.html)
-  * Ambulatory Care (PACU, Physiatry, Pre-Op) — 30 patient-care hours  
-* October-November, 2022: [Emory Decatur Hospital](https://www.emoryhealthcare.org/locations/hospitals/emory-decatur-hospital/index.html)
-  * Dr. Bobbie Bailey Tower: OB Care (L&D, Postpartum, NICU) — 60 patient-care hours  
-* September-October, 2022: [Peachford Hospital](https://peachford.com)
-  * Inpatient Mental Health (Pediatric, Adolescent, & Adult/Gero populations) — 60 patient-care hours  
-* March–May, 2022: [Emory University Hospital](https://www.emoryhealthcare.org/locations/hospitals/emory-university-hospital/index.html)
-  * 10E: Med-surg/infectious disease unit (hybrid COVID-19 unit) — 75 patient-care hours  
+* February-May, 2023 (Anticipated): [Emory Decatur Hospital](https://www.emoryhealthcare.org/locations/hospitals/emory-decatur-hospital/index.html) — 150 patient-care hours  
+  * Senior Clinical Practicum (Role Transition): Emergency Department & Cardiac Telemetry  
+* January-February, 2023: [Emory Orthopaedics & Spine Center](https://www.emoryhealthcare.org/centers-programs/orthopedic-spine-center/index.html) — 30 patient-care hours  
+  * Ambulatory Care (PACU, Physiatry, Pre-Op)  
+* October-November, 2022: [Emory Decatur Hospital](https://www.emoryhealthcare.org/locations/hospitals/emory-decatur-hospital/index.html) — 60 patient-care hours  
+  * Dr. Bobbie Bailey Tower: OB Care (L&D, Postpartum, NICU)  
+* September-October, 2022: [Peachford Hospital](https://peachford.com) — 60 patient-care hours  
+  * Inpatient Mental Health (Pediatric, Adolescent, & Adult/Gero populations)  
+* March–May, 2022: [Emory University Hospital](https://www.emoryhealthcare.org/locations/hospitals/emory-university-hospital/index.html) — 75 patient-care hours  
+  * 10E: Med-surg/infectious disease unit (hybrid COVID-19 unit)  
 * March, 2022: Camp Journey by [Spectrum](https://www.atl-spectrum.com/) — 30 patient-care hours
   * Worked with other students and faculty to administer medications to campers with autism
   * Collaborated on project to overhaul medication administration procedures and improve safety
-* January–March, 2022: [Children's Egleston Hospital](https://www.choa.org/locations/egleston-hospital)
-  * 4E: Pediatric med-surg unit — 60 patient-care hours  
-* September–December, 2021: [Emory University Hospital](https://www.emoryhealthcare.org/locations/hospitals/emory-university-hospital/index.html)
-  * 6T: Transplant unit — 60 patient-care hours  
+* January–March, 2022: [Children's Egleston Hospital](https://www.choa.org/locations/egleston-hospital) — 60 patient-care hours  
+  * 4E: Pediatric med-surg unit  
+* September–December, 2021: [Emory University Hospital](https://www.emoryhealthcare.org/locations/hospitals/emory-university-hospital/index.html) — 60 patient-care hours  
+  * 6T: Transplant unit  
 
 
 
