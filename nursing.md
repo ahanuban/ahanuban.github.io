@@ -12,7 +12,7 @@ Ahanu is a student nurse with excellent interpersonal and leadership skills. He 
 
 ### Clinical Experience
 * Spring, 2023: [Emory Decatur Hospital](https://www.emoryhealthcare.org/locations/hospitals/emory-decatur-hospital/index.html) — 132 patient-care hours  
-  * Senior Clinical Practicum (Role Transition): Emergency Department & Cardiac Telemetry  
+  * Senior Clinical Practicum (Role Transition): Cardiac Telemetry  
 * Spring, 2023: [Emory Orthopaedics & Spine Center](https://www.emoryhealthcare.org/centers-programs/orthopedic-spine-center/index.html) — 30 patient-care hours  
   * Ambulatory Care (PACU, Physiatry, Pre-Op)  
 * Fall, 2022: [Emory Decatur Hospital](https://www.emoryhealthcare.org/locations/hospitals/emory-decatur-hospital/index.html) — 60 patient-care hours  
