@@ -7,30 +7,38 @@ permalink: /nursing/
 ## Nursing Experience
 Ahanu is currently a student nurse at Emory University's [Nell Hodgson Woodruff School of Nursing](https://nursing.emory.edu). He expects to graduate in May, 2023. 
 
+### Profile Statement
+Ahanu is a student nurse with excellent interpersonal and leadership skills. He is passionate about improving health equity and serving minority populations. He is proficient in Spanish and has extensive volunteer experience in vaccine and COVID testing clinics.  
+
 ### Clinical Experience
-* February-May, 2023 (Anticipated): [Emory Decatur Hospital](https://www.emoryhealthcare.org/locations/hospitals/emory-decatur-hospital/index.html) — 150 patient-care hours  
+* Spring, 2023: [Emory Decatur Hospital](https://www.emoryhealthcare.org/locations/hospitals/emory-decatur-hospital/index.html) — 132 patient-care hours  
   * Senior Clinical Practicum (Role Transition): Emergency Department & Cardiac Telemetry  
-* January-February, 2023: [Emory Orthopaedics & Spine Center](https://www.emoryhealthcare.org/centers-programs/orthopedic-spine-center/index.html) — 30 patient-care hours  
+* Spring, 2023: [Emory Orthopaedics & Spine Center](https://www.emoryhealthcare.org/centers-programs/orthopedic-spine-center/index.html) — 30 patient-care hours  
   * Ambulatory Care (PACU, Physiatry, Pre-Op)  
-* October-November, 2022: [Emory Decatur Hospital](https://www.emoryhealthcare.org/locations/hospitals/emory-decatur-hospital/index.html) — 60 patient-care hours  
+* Fall, 2022: [Emory Decatur Hospital](https://www.emoryhealthcare.org/locations/hospitals/emory-decatur-hospital/index.html) — 60 patient-care hours  
   * Dr. Bobbie Bailey Tower: OB Care (L&D, Postpartum, NICU)  
-* September-October, 2022: [Peachford Hospital](https://peachford.com) — 60 patient-care hours  
+* Fall, 2022: [Peachford Hospital](https://peachford.com) — 60 patient-care hours  
   * Inpatient Mental Health (Pediatric, Adolescent, & Adult/Gero populations)  
-* March–May, 2022: [Emory University Hospital](https://www.emoryhealthcare.org/locations/hospitals/emory-university-hospital/index.html) — 75 patient-care hours  
+* Spring, 2022: [Emory University Hospital](https://www.emoryhealthcare.org/locations/hospitals/emory-university-hospital/index.html) — 75 patient-care hours  
   * 10E: Med-surg/infectious disease unit (hybrid COVID-19 unit)  
 * March, 2022: Camp Journey by [Spectrum](https://www.atl-spectrum.com/) — 30 patient-care hours
   * Worked with other students and faculty to administer medications to campers with autism
   * Collaborated on project to overhaul medication administration procedures and improve safety
-* January–March, 2022: [Children's Egleston Hospital](https://www.choa.org/locations/egleston-hospital) — 60 patient-care hours  
+* Spring, 2022: [Children's Egleston Hospital](https://www.choa.org/locations/egleston-hospital) — 60 patient-care hours  
   * 4E: Pediatric med-surg unit  
-* September–December, 2021: [Emory University Hospital](https://www.emoryhealthcare.org/locations/hospitals/emory-university-hospital/index.html) — 60 patient-care hours  
+* Fall, 2021: [Emory University Hospital](https://www.emoryhealthcare.org/locations/hospitals/emory-university-hospital/index.html) — 60 patient-care hours  
   * 6T: Transplant unit  
 
+### Languages
+* English: Fluent  
+* Spanish: Advanced
 
-
+### Charting/EHR Software
+* Epic 
+* Cerner PowerChart  
 
 ### Additional Experience
-* Streamlining processes and administering vaccines at COVID-19 and flu vaccine clinics  
+* Organizing workflow, counseling patients, and administering vaccines at COVID-19 and flu vaccine clinics  
   * [DeKalb County Board of Health](https://www.dekalbhealth.net/): Volunteer Spanish interpreter and vaccine administrator
   * [Boat People SOS](https://www.bpsos.org): Vaccine preparation and administration
 * Administering COVID-19 (nasopharyngeal/oropharyngeal swab) tests
@@ -38,23 +46,17 @@ Ahanu is currently a student nurse at Emory University's [Nell Hodgson Woodruff 
 * Diabetes education and counseling
   * Ahanu has counseled many diabetic patients regarding continuity-of-care and ways to improve treatment outcomes, both during student clinicals and in his free time. He is especially well-versed in treatment for Type I Diabetes.
 
-### Continuing Education & Certifications
+### CE Credits & Certificates
 * Harvard Medical School
   * Mechanical Ventilation for COVID-19
-* American Nurses Association
-  * Redefining Nursing - Reaffirming Our Practice: Introducing the Nursing Scope and Standards of Practice, Fourth Edition
 * American Red Cross
   * Disaster Cycle Services Overview
   * Disaster Health Services Fundamentals 1 & 2
   * Disaster Preparedness Orientation
 * Emory Nursing Professional Development Center
   * Motivational Interviewing
+* American Nurses Association
+  * Redefining Nursing - Reaffirming Our Practice  
+  
 
-### Languages
-* English: Fluent  
-* Spanish: Near fluent
-
-### Charting/EHR Software
-* Epic
-* PowerChart
 
