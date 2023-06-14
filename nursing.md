@@ -5,10 +5,10 @@ permalink: /nursing/
 ---
 
 ## Nursing Experience
-Ahanu is currently a student nurse at Emory University's [Nell Hodgson Woodruff School of Nursing](https://nursing.emory.edu). He expects to graduate in May, 2023. 
+Ahanu received his Bachelor of Science in Nursing (BSN) degree from Emory University's [Nell Hodgson Woodruff School of Nursing](https://nursing.emory.edu) in May, 2023. He is currently a RN resident at the Marcus Stroke & Neuroscience Center (neuro ICU) at Grady Memorial Hospital in Atlanta, GA. 
 
 ### Profile Statement
-Ahanu is a student nurse with excellent interpersonal and leadership skills. He is passionate about improving health equity and serving minority populations. He is proficient in Spanish and has extensive volunteer experience in vaccine and COVID testing clinics.  
+Ahanu is a nurse with excellent interpersonal and leadership skills. He is passionate about improving health equity and serving minority populations. He is proficient in Spanish and has extensive volunteer experience in vaccine and COVID testing clinics.  
 
 ### Clinical Experience
 * Spring, 2023: [Emory Decatur Hospital](https://www.emoryhealthcare.org/locations/hospitals/emory-decatur-hospital/index.html) — 132 patient-care hours  
