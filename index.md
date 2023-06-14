@@ -4,7 +4,7 @@ title: "About"
 ---
 
 ## About Ahanu
-Ahanu Banerjee is a nurse, cellist, and entrepreneur. Beginning august 2023, he will be an RN Resident at the Marcus Stroke & Neuroscience Center (neuro ICU) at Grady Memorial Hospital.
+Ahanu Banerjee is a nurse, cellist, and entrepreneur. Beginning August 2023, he will be an RN Resident at the [Marcus Stroke & Neuroscience Center](https://www.gradyhealth.org/marcus-stroke-and-neuroscience-center/) (neuro ICU) at Grady Memorial Hospital.
 
 ### Nursing Education
 Ahanu received his bachelor's degree of science in nursing (BSN) at Emory University's [Nell Hodgson Woodruff School of Nursing](https://nursing.emory.edu) in May, 2023. He completed his nursing school prerequisites at [Georgia State University](https://gsu.edu), where he maintained a 4.0 GPA.
