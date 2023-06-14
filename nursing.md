@@ -5,7 +5,7 @@ permalink: /nursing/
 ---
 
 ## Nursing Experience
-Ahanu received his Bachelor of Science in Nursing (BSN) degree from Emory University's [Nell Hodgson Woodruff School of Nursing](https://nursing.emory.edu) in May, 2023. He is currently a RN resident at the Marcus Stroke & Neuroscience Center (neuro ICU) at Grady Memorial Hospital in Atlanta, GA. 
+Ahanu received his Bachelor of Science in Nursing (BSN) degree from Emory University's [Nell Hodgson Woodruff School of Nursing](https://nursing.emory.edu) in May, 2023. Beginning August 2023, he will be an RN Resident at the [Marcus Stroke & Neuroscience Center](https://www.gradyhealth.org/marcus-stroke-and-neuroscience-center/) (neuro ICU) at Grady Memorial Hospital in Atlanta, GA. 
 
 ### Profile Statement
 Ahanu is a nurse with excellent interpersonal and leadership skills. He is passionate about improving health equity and serving minority populations. He is proficient in Spanish and has extensive volunteer experience in vaccine and COVID testing clinics.  
