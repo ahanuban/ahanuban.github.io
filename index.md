@@ -4,7 +4,7 @@ title: "About"
 ---
 
 ## About Ahanu
-Ahanu Banerjee is a nurse, cellist, and entrepreneur. Beginning August 2023, he will be an RN Resident at the [Marcus Stroke & Neuroscience Center](https://www.gradyhealth.org/marcus-stroke-and-neuroscience-center/) (neuro ICU) at Grady Memorial Hospital.
+Ahanu Banerjee is a nurse, cellist, and entrepreneur. He currently works in the Cardiac Catheterization Lab and Electrophysiology Lab at Emory Decatur Hospital.
 
 ### Nursing Education
 Ahanu received his bachelor's degree of science in nursing (BSN) at Emory University's [Nell Hodgson Woodruff School of Nursing](https://nursing.emory.edu) in May, 2023. He completed his nursing school prerequisites at [Georgia State University](https://gsu.edu), where he maintained a 4.0 GPA.
@@ -18,4 +18,4 @@ Ahanu also has a keen interest in lutherie and has worked as an intern at [Atlan
 Ahanu owns [Edizioni Migliori](https://cellobooks.net), a sheet music publishing company that makes modern editions of sheet music for cello.  
 
 ### Travel and Citizenship
-Ahanu is an avid international traveler, having visited 27+ countries. He holds dual citizenship with the United States and the United Kingdom, as well as [OCI (Overseas Citizenship of India)](https://en.wikipedia.org/wiki/Overseas_Citizenship_of_India) status.
+Ahanu is an avid international traveler, having visited 30+ countries. He holds dual citizenship with the United States and the United Kingdom, as well as [OCI (Overseas Citizenship of India)](https://en.wikipedia.org/wiki/Overseas_Citizenship_of_India) status.
